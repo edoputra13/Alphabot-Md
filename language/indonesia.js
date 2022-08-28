@@ -95,7 +95,7 @@ exports.UmurXReg = () =>{
 	return`Umur kamu terlalu tua, bukannya mati ehh malah main bot`
 	}
 exports.firstChat = (a, b, c) =>{
-	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa ${c} bantu?`
+	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa aku bantu?`
 	}
 exports.StartAbsen = () =>{
 	return`Mulai Absen`
@@ -1767,7 +1767,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : https://youtube.com/
 `
 }
 exports.tos = (ownernomer) => {
